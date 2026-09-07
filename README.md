@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
+**Electrical Engineering Junior @ Florida International University (Expected Grad: May 2028)**
 
-<!--
-**mr0252/mr0252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Miami, FL | 📧 [Your Email] | 💼 [LinkedIn Profile Link]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Focus & Core Competencies
+* **Circuit Analysis & Simulation:** LTspice (Dynamic $RC$ Transient Modeling, Pulsed Power Analysis), Altium Designer (Schematics & PCB Layout)
+* **Active Coursework:** Logic Design, Signals & Systems, Embedded Systems
+* **Software & Data:** C/C++, MATLAB, MS Office 365 (Data Plotting & Excel Analysis)
+* **Languages & Organizations:** Bilingual (English & Spanish), Society of Hispanic Professional Engineers (SHPE)
+
+---
+
+## 🚀 Featured Engineering Projects
+
+### ⚡ Dynamic EV Battery Transient Circuit Model (LTspice)
+* Simulated dynamic $RC$ transient battery models in **LTspice** to analyze voltage drops under high-peak pulsed loads.
+* Hand-calculated time constants ($\tau = RC$) to validate simulation settling times against analytical circuit models.
+* Generated dynamic load curves to evaluate instantaneous power delivery constraints in electric vehicle battery systems.
+
+---
+
+## 🎯 Target Industry Focus (Summer 2027)
+Currently seeking **Summer 2027 Electrical Engineering Internships** targeting:
+* Automotive Electrical Systems & Controls (Ford, GM)
+* Power Infrastructure & Grid Modernization (ENERCON, Vertiv)
+* Industrial Automation & Facility Systems (Amazon RME/AMM)
