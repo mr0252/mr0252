@@ -11,6 +11,8 @@
 * **Software & Data:** C/C++, MATLAB, MS Office 365 (Data Plotting & Excel Analysis)
 * **Languages & Organizations:** Bilingual (English & Spanish), Society of Hispanic Professional Engineers (SHPE)
 
+<img width="1365" height="603" alt="EVBatteryProjectSC" src="https://github.com/user-attachments/assets/f5b892ad-ca95-487d-b3ba-a3388fcfd6a4" />
+
 ---
 
 ## 🚀 Featured Engineering Projects
