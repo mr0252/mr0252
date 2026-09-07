@@ -1,4 +1,4 @@
-# Hi, I'm ManueL Rodriguez 👋
+# Hi, I'm Manuel Rodriguez 👋
 **Electrical Engineering Junior @ Florida International University (Expected Grad: May 2028)**
 
 📍 Miami, FL | 📧 manuelrodriguez6761@gmail.com | 💼  linkedin.com/in/manuel-rodriguez-682404335
